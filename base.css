@@ -1,0 +1,17 @@
+@charset "utf-8";
+body h1 {
+    color: #FF9E00;
+    font-family: Osaka-mono, "MS Gothic", monospace;
+}
+body {
+    background-image: url(43451.jpg);
+}
+
+.key {
+    color: #0A00FF;
+    background-color: #A1FF00;
+    font-size: x-large;
+}
+body p img {
+    border: 10px dotted #00FD34;
+}
